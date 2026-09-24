@@ -1,0 +1,6 @@
+{
+  "name": "ApexSlab Sports Cards - Personal Collection & Vault",
+  "description": "Premier personal sports card storefront, graded slab inventory manager, AI-powered semantic collector search, secure escrow checkout, buyer-seller direct chat, and offline card binder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
